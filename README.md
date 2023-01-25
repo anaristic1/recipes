@@ -1,2 +1,3 @@
 # recipes
-Recipe app created using Django.
+
+Django REST API created while following Udemy course "Build a Backend REST API with Python & Django".
